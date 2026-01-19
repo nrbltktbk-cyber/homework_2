@@ -35,7 +35,7 @@ print(d1)
 print(d2)
 print(d3)
 
-# сложение
+
 sum1 = d1 + d2
 print(sum1)
 
